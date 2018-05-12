@@ -1,0 +1,27 @@
+_repo: The-Phantom-Airman_43264
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43264-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Walker, Rowland
+    gutenberg_agent_id: '42096'
+    url: http://www.gutenberg.org/2009/agents/42096
+description: ''
+gutenberg_issued: '2013-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43264'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PZ'
+- !lcsh 'Airships -- Juvenile fiction'
+- !lcsh 'Aeronautics -- Juvenile fiction'
+title: The Phantom Airman
+url: http://www.gutenberg.org/ebooks/43264
